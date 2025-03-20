@@ -52,6 +52,10 @@ curl -s https://raw.githubusercontent.com/RitikBarnwal/change-all-cpanel-passwor
 
 ---
 
+## ⚠ **The Default Password**  
+Default Password : **TextraHost**
+
+
 ## ⚠ **Important Notes**  
 - This script **requires root access** to your WHM server.  
 - Ensure that WHM API is enabled on your server.  
