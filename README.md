@@ -53,7 +53,7 @@ curl -s https://raw.githubusercontent.com/RitikBarnwal/change-all-cpanel-passwor
 ---
 
 ## ⚠ **The Default Password**  
-Default Password : **TextraHost**
+Default Password : **Ritik@121**
 
 
 ## ⚠ **Important Notes**  
