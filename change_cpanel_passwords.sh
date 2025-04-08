@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the new password for all cPanel accounts
-NEW_PASSWORD="TextraHost"
+NEW_PASSWORD="Ritik@121"
 
 # Get all cPanel account usernames
 ACCOUNTS=$(whmapi1 listaccts | grep -oP '(?<=user: )\S+')
